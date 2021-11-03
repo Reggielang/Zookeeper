@@ -145,5 +145,5 @@ get path [watch]
 十、API应用
 1.创建zookeeper客户端
 2.创建子节点
-3.
-4.
+3.获取子节点并监听节点变化
+4.判断Znode是否存在
